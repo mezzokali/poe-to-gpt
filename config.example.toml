@@ -2,6 +2,7 @@
 port = 3700
 
 # If you are a poe subscriber, you can find your API key on the poe official website. You must be a poe subscriber.如果你是poe订阅者，你可以在poe官网找到API_key,你必须是poe订阅者。
+# poe 订阅者获取API key地址：https://poe.com/api_key
 tokens = [""]
 
 # Custom API Access Key.自定义接口访问密钥
